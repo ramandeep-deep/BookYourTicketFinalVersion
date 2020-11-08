@@ -1,0 +1,20 @@
+.customDiv {
+    margin: 3px;
+    min-height: 400px;
+    background-color: black;
+    font-size: large;
+    color: aliceblue;
+    font-family: verdana;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 25px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.checked {
+    color: orange;
+}
